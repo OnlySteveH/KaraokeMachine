@@ -9,7 +9,7 @@ import java.util.TreeMap;
 
 public class SongBook {
   private List<Song> mSongs;
-  
+  private String ambersString = "Github test";
   public SongBook(){
     mSongs = new ArrayList<Song>();
   }
